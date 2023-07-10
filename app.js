@@ -16,7 +16,8 @@ var io = socketIO(server);
 
 app.use(express.static(__dirname));
 
-var OPENAI_API_KEY = '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';
+// hidden
+var OPENAI_API_KEY = '*********';
 
 io.on('connection', function(socket) {
     console.log('User connected');
