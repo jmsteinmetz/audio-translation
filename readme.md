@@ -30,7 +30,7 @@ npm axios
 
 Socket.Io is a good, simple way to create bi-directional comms from client to server. There are many other options, chose this one for the simplicity of the exercise.
 
-Next, created the index file (list/index.html). I just quickly created a react component to insert the content. 
+Next, created the index file (list/index.html). If you wanted to do it in react, you could do this.  
 ``` 
 <!DOCTYPE html>
 <html lang="en">
